@@ -29,5 +29,9 @@ A menu-driven banking system written in Java using object-oriented programming p
 4. Transfer between accounts
 5. Display balances
 
+## Screenshot
+
+![Program Screenshot](screenshot.png)
+
 ## Author
 Joanna Strader
